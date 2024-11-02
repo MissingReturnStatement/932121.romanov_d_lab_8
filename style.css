@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+td {
+    padding: 0;
+    display: inline-block;
+}
+button {
+    gap: 0;
+}
